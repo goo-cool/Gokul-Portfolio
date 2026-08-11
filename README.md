@@ -30,16 +30,6 @@ This project showcases my personal portfolio website built using HTML and deploy
 - Custom domain connected using Route 53
 - Web Application Firewall added for security
 
----
-
-## 🌍 Live URL
-- **S3 Test URL (HTTP):**  
-  http://goocool.in.s3-website-us-east-1.amazonaws.com/
-
-- **Production Website (HTTPS):**  
-  https://goocoolofficial.in (currently down) #$8
-
----
 
 ## 👤 Author
 **Gokul D**  
