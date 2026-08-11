@@ -49,13 +49,6 @@ This project showcases my personal portfolio website built using HTML and deploy
 
 > Personal portfolio website built with vanilla HTML, CSS, and JavaScript. Themed after the AWS Management Console with a dark navy + orange accent design.
 
-## 🔗 Live Demo
-
-| Platform | URL |
-|---|---|
-| AWS Amplify | [https://staging.d3sab0wlreal71.amplifyapp.com](https://staging.d3sab0wlreal71.amplifyapp.com) |
-| AWS S3 Static Hosting | [http://myportfolio-igoocool.s3-website-us-east-1.amazonaws.com](http://myportfolio-igoocool.s3-website-us-east-1.amazonaws.com) |
-
 ## 📋 Sections
 
 - **whoami** — Summary, profile photo, contact links
